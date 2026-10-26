@@ -1,0 +1,10 @@
+﻿  Lab09 Studenihin Pavel 2.c
+C:\Users\user\source\repos\Lab09 Studenihin Pavel 2\Lab09 Studenihin Pavel 2.c(114,20): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "__int64"
+      C:\Users\user\source\repos\Lab09 Studenihin Pavel 2\Lab09 Studenihin Pavel 2.c(114,20):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\user\source\repos\Lab09 Studenihin Pavel 2\Lab09 Studenihin Pavel 2.c(114,20):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\user\source\repos\Lab09 Studenihin Pavel 2\Lab09 Studenihin Pavel 2.c(114,20):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+  Lab09 Studenihin Pavel 2.vcxproj -> C:\Users\user\source\repos\Lab09 Studenihin Pavel\x64\Debug\Lab09 Studenihin Pavel 2.exe
